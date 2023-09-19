@@ -1,0 +1,23 @@
+* {
+  background-color: black;
+}
+.box {
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  margin-top: 100px;
+}
+img {
+  border: 5px solid white;
+  width: 100%;
+}
+h1 {
+  color: white;
+  text-transform: uppercase;
+  font-family: "Bebas Neue", sans-serif;
+  font-family: "Caveat", cursive;
+  font-size: 3rem;
+}
+p {
+  color: white;
+}
